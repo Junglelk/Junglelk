@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Junglelk
 - 👀 I’m interested in ACG
-- 🌱 I’m currently learning ElasticSearch,RabbitMQ,Kafka,MongoDB,DynamicProgram,Netty,ETC.
 - 📫 How to reach me makang0419@outlook.com
 
 <!---
