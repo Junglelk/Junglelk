@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Junglelk
 - 👀 I’m interested in ACG
-- 📫 How to reach me makang0419@outlook.com
+- 📫 How to reach me junglelk@foxmail.com
 
 <!---
 Junglelk/Junglelk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
