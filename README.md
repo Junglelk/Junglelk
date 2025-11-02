@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Junglelk
-- 👀 I’m interested in ACG
+- 👀 I’m interested in Java,System Design
 - 📫 How to reach me junglelk@foxmail.com
 
 <!---
