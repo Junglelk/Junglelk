@@ -6,11 +6,11 @@ My work focuses on system architecture, performance tuning, and clean, maintaina
 
 # 💻 Tech Stack
 
-- Language: Java (JDK 21), Groovy
+- Language: Java (JDK 21), Groovy, JavaScript
 
-- Frameworks: Spring Boot, Spring Cloud Alibaba, MyBatis-Plus
+- Frameworks: Spring Boot, Spring Cloud, MyBatis, JPA
 
-- Databases: GaussDB, MySQL, Redis, Elasticsearch
+- Databases: PostgreSQL, Oracle, MySQL, Redis, Elasticsearch
 
 - Messaging / Cache: Kafka, Redis
 
